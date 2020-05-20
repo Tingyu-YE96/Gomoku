@@ -10,3 +10,4 @@
 ## Further Function:
 ### 1.Background music: The music will be background long music, that would be around 2 to 5 minutes. Also, we will try to add action sounds (SFX). These will give sound feedback when a player or machine plays a move and when a party wins the match.
 ### 2.Man-machine battle: The purpose of this mode's implementation is to have the player play with trained agent by implementing the reinforcement learning
+
